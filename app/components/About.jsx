@@ -3,7 +3,7 @@ var React = require('react');
 var About = (props) => {
   return (
     <div>
-      <h3 className="text-cemter">About</h3>
+      <h3 className="text-center">About</h3>
       <p>
       This is my first web app ever and
       I'm kind of excited about it
